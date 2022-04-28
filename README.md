@@ -159,4 +159,4 @@ and, when compiling your code, add the required flags:
 -lft -L path/to/libft.a -I path/to/libft.h
 ```
 
-![libft](https://user-images.githubusercontent.com/81527587/165849238-3915e2a7-60f7-403e-ac5f-fe0bd312999b.jpg)
+![libftt](https://user-images.githubusercontent.com/81527587/165849438-35a61602-0981-4f0b-8fd1-7ba878054482.jpg)
